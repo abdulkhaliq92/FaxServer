@@ -1,10 +1,5 @@
 ![Fax Server](https://media.bludesign.biz/fax_server_logo.png)
 
-<a href="https://heroku.com/deploy">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-
-
 <p align="center">
 	<a href="http://docs.faxserver.apiary.io/">
         <img src="http://img.shields.io/badge/api-documentation-92A8D1.svg" alt="API Documentation">
