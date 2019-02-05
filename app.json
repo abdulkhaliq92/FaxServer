@@ -6,7 +6,10 @@
     "addons": [],
     "buildpacks": [
     {
-      "url": "heroku/nodejs"
+      "url": "https://github.com/heroku/heroku-buildpack-pgbouncer"
+    },
+    {
+      "url": "heroku/ruby"
     }
   ]
 }
