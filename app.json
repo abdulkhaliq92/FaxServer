@@ -1,15 +1,6 @@
 {
-    "name": "Server",
-    "scripts": {},
-    "env": {},
-    "formation": {},
-    "addons": [],
-    "buildpacks": [
-    {
-      "url": "https://github.com/heroku/heroku-buildpack-pgbouncer"
-    },
-    {
-      "url": "heroku/ruby"
-    }
-  ]
+  "name": "Fax Server",
+  "description": "Twilio based web Server",
+  "repository": "https://github.com/abdulkhaliq92/FaxServer",
+  "keywords": ["node", "express", "static"]
 }
