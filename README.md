@@ -36,6 +36,8 @@ After starting the server will be running at [http://127.0.0.1:8080](http://127.
 
 To run the server in the background run `docker-compose up -d`
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 #### Manually
 
 If it is not already installed install [MongoDB](https://docs.mongodb.com/manual/installation/) if you are using authentication or a non-standard port set it with the `MONGO_HOST`, `MONGO_PORT`, `MONGO_USERNAME`, `MONGO_PASSWORD` environment variables.
