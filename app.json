@@ -1,6 +1,12 @@
 {
-  "name": "Fax Server",
-  "description": "Twilio based web Server",
-  "repository": "https://github.com/abdulkhaliq92/FaxServer",
-  "keywords": ["node", "express", "static"]
+    "name": "FaxServer",
+    "scripts": {},
+    "env": {},
+    "formation": {},
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "https://github.com/kylef/heroku-buildpack-swift"
+        }
+    ]
 }
